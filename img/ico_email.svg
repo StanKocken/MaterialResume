@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 42</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-2" sketch:type="MSArtboardGroup" transform="translate(-197.000000, -453.000000)" fill="#737373">
+            <g id="Contact" sketch:type="MSLayerGroup" transform="translate(179.000000, 226.000000)">
+                <g id="email" transform="translate(0.000000, 211.000000)" sketch:type="MSShapeGroup">
+                    <path d="M19.4047435,16 C18.7445196,16 18.2093023,16.5341614 18.2093023,17.19464 L18.2093023,24.2379181 C18.2093023,24.8976996 18.7465624,25.4325581 19.4047435,25.4325581 L28.8045589,25.4325581 C29.4647828,25.4325581 30,24.8983967 30,24.2379181 L30,17.19464 C30,16.5348585 29.4627399,16 28.8045589,16 L19.4047435,16 Z M19.3883721,17.1790698 L19.3883721,18.3581395 L24.1046512,21.305814 L24.1046512,20.1267442 L19.3883721,17.1790698 Z M28.8209302,17.1790698 L28.8209302,18.3581395 L24.1046512,21.305814 L24.1046512,20.1267442 L28.8209302,17.1790698 Z" id="Rectangle-42"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_work_48px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-2" sketch:type="MSArtboardGroup" transform="translate(-542.000000, -327.000000)" fill="#737373">
+            <g id="Work-Experience" sketch:type="MSLayerGroup" transform="translate(507.000000, 306.000000)">
+                <g id="ic_work_48px" transform="translate(35.000000, 21.000000)" sketch:type="MSShapeGroup">
+                    <path d="M11.452381,2.925 L8.97619048,2.925 L8.97619048,1.625 C8.97619048,0.90675 8.42214286,0.325 7.73809524,0.325 L5.26190476,0.325 C4.57785714,0.325 4.02380952,0.90675 4.02380952,1.625 L4.02380952,2.925 L1.54761905,2.925 C0.863571429,2.925 0.315714286,3.50675 0.315714286,4.225 L0.30952381,11.375 C0.30952381,12.09325 0.863571429,12.675 1.54761905,12.675 L11.452381,12.675 C12.1364286,12.675 12.6904762,12.09325 12.6904762,11.375 L12.6904762,4.225 C12.6904762,3.50675 12.1364286,2.925 11.452381,2.925 L11.452381,2.925 Z M7.73809524,2.925 L5.26190476,2.925 L5.26190476,1.625 L7.73809524,1.625 L7.73809524,2.925 L7.73809524,2.925 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

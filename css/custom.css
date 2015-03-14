@@ -1,0 +1,181 @@
+body {
+  font-size: 12px;
+  color: #999999;
+}
+
+.title {
+  color: #737373;
+  font-size: 1.2rem;
+}
+
+.collection .collection-item.avatar {
+  height: 62px;
+  border-bottom: 0px
+}
+
+.collection .collection-item.avatar .icon {
+  padding: 10px;
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  overflow: hidden;
+  left: 15px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.collection .divider {
+  margin: 5px 0px;
+}
+
+a {
+  color: inherit;
+}
+
+.collection a.collection-item {
+  color: inherit;
+}
+
+.about_me_header {
+  height: 148px;
+  width: 400px;
+  background-image: url(../img/header.jpg);
+
+  background-position: bottom center;
+  background-size: cover;
+
+  margin-bottom: 10px;
+
+  position: relative;
+}
+
+.left_content {
+  max-width: 400px;
+}
+
+.about_me_header .name {
+  color: #FFFFFF;
+  font-size: 1.92rem;
+  position: absolute;
+  bottom: 10px;
+  left: 25px;
+}
+
+.cv_title {
+  color: #4D4D4E;
+  font-size: 1.92rem;
+  line-height: 3.212rem;
+  margin: 1.46rem 0 1.168rem 0;
+  border-bottom: 1px groove #DCDCDC;
+  display: block;
+  margin-left: 90px;
+  margin-bottom: 30px;
+}
+
+.title {
+  display: block;
+}
+
+.cv_card {
+  margin-top: 30px;
+}
+
+.cv_card .title {
+  margin-left: 70px;
+}
+
+.cv_card .icon {
+  position: absolute;
+  margin-left: 15px;
+  width: 22px;
+  height: 22px;
+}
+
+.cv_card .date_container {
+  margin-left: 70px;
+  padding-left: 10px;
+  /*border-left: #999999 solid 1px;*/
+}
+
+.cv_card .date_container .title {
+  margin-left: 10px;
+}
+
+.date_container .date {
+  display: block;
+  color: #999999;
+}
+
+.date_container .location {
+  display: block;
+  color: #999999;
+  margin-left: 20px;
+}
+
+.date_container .description {
+  margin-left: 20px;
+}
+
+.date_container .location img {
+  margin-right: 5px;
+  width: 10px;
+}
+
+.date_container .date_entry {
+  margin-top: 10px;
+}
+
+.cv_card .at {
+  color: #40BFED;
+}
+
+.left_content .cv_card .icon {
+  position: absolute;
+  margin-left: 5px;
+}
+
+.left_content .cv_card .title {
+  margin-left: 55px;
+}
+
+.app_container {
+  margin-left: 30px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.app_entry {
+  display: inline-block;
+  width: 220px;
+  padding-left: 55px;
+  margin: 5px;
+}
+
+.cv_card .app_entry .title {
+  margin-left: 0px;
+}
+
+.app_entry img {
+  position: absolute;
+  margin-left: -55px;
+  width: 45px;
+}
+
+.skills {
+  margin-top: 20px;
+  margin-left: 100px;
+}
+
+.skills .title {
+  margin-top: 10px;
+  margin-left: -20px;
+}
+
+.left_content .skills {
+  margin-left: 80px;
+}
+
+.left_content .skills .title {
+  margin-left: -20px;
+}
+

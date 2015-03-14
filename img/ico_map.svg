@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="6px" height="6px" viewBox="0 0 6 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_map_48px 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-2" sketch:type="MSArtboardGroup" transform="translate(-601.000000, -383.000000)">
+            <g id="Work-Experience" sketch:type="MSLayerGroup" transform="translate(507.000000, 306.000000)">
+                <g id="ic_map_48px-3" transform="translate(93.000000, 76.000000)" sketch:type="MSShapeGroup">
+                    <path d="M6.83333333,1 C6.815,1 6.79833333,1.00166667 6.78166667,1.00833333 L5,1.7 L3,1 L1.12166667,1.63333333 C1.05166667,1.65666667 1,1.71666667 1,1.79333333 L1,6.83333333 C1,6.925 1.075,7 1.16666667,7 C1.185,7 1.20166667,6.99833333 1.21833333,6.99166667 L3,6.3 L5,7 L6.88,6.36833333 C6.95,6.34333333 7,6.28333333 7,6.20666667 L7,1.16666667 C7,1.075 6.925,1 6.83333333,1 L6.83333333,1 Z M5,6.33333333 L3,5.63166667 L3,1.66666667 L5,2.36833333 L5,6.33333333 L5,6.33333333 Z" id="Shape" fill="#999999"></path>
+                    <path d="M0,0 L8,0 L8,8 L0,8 L0,0 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

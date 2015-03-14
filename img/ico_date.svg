@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-2" sketch:type="MSArtboardGroup" transform="translate(-197.000000, -398.000000)" fill="#737373">
+            <g id="Contact" sketch:type="MSLayerGroup" transform="translate(179.000000, 226.000000)">
+                <g id="Birthday" transform="translate(0.000000, 157.000000)" sketch:type="MSShapeGroup">
+                    <path d="M20.6666667,20.85 L24,20.85 L24,24.1 L20.6666667,24.1 L20.6666667,20.85 Z M28.6666667,26.7 L19.3333333,26.7 L19.3333333,19.55 L28.6666667,19.55 L28.6666667,26.7 Z M28.6666667,16.3 L28,16.3 L28,15 L26.6666667,15 L26.6666667,16.3 L21.3333333,16.3 L21.3333333,15 L20,15 L20,16.3 L19.3333333,16.3 C18.5933333,16.3 18,16.885 18,17.6 L18,26.7 C18,27.4179702 18.5969537,28 19.3333333,28 L28.6666667,28 C29.4030463,28 30,27.4179702 30,26.7 L30,17.6 C30,16.8820298 29.4030463,16.3 28.6666667,16.3 L28.6666667,16.3 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
