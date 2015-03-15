@@ -114,6 +114,7 @@ a {
 
 .date_container .description {
   margin-left: 20px;
+  display: block;
 }
 
 .date_container .location img {
@@ -179,3 +180,24 @@ a {
   margin-left: -20px;
 }
 
+
+
+@media (max-width: 600px) {
+  .cv_card .date_container {
+    margin-left: 0px;
+  }
+  .skills {
+    margin-left: 30px;
+  }
+  .left_content .skills {
+    margin-left: 30px;
+  }
+
+}
+
+@media (max-width: 480px) {
+  .cv_title {
+    font-size: 1.5rem;
+    margin-left: 2.8rem;
+  }
+}
