@@ -104,6 +104,7 @@ a {
 .date_container .date {
   display: block;
   color: #999999;
+  margin-top: 10px;
 }
 
 .date_container .location {
@@ -123,7 +124,7 @@ a {
 }
 
 .date_container .date_entry {
-  margin-top: 10px;
+  padding-top: 10px;
 }
 
 .cv_card .at {
@@ -180,6 +181,26 @@ a {
   margin-left: -20px;
 }
 
+.round_mark {
+  border: 1px solid #DCDCDC;
+  border-radius: 25px;
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  margin-left: -17px;
+  margin-top: 3px;
+}
+
+.left_border {
+  border-left: 1px solid #DCDCDC;
+  padding-top: 10px;
+  margin-top: -6px;
+  margin-left: -12px;
+  padding-left: 12px;
+  margin-bottom: -13px;
+  padding-bottom: 13px;
+}
 
 
 @media (max-width: 600px) {
