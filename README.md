@@ -1,5 +1,5 @@
 # MaterialResume
-A example of Material Resume
+An example of Material Resume
 
 ### Mockup
 ![alt mockup](./mockup.jpg)
